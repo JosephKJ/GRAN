@@ -39,7 +39,7 @@ from util_cifar10 import *
 #datapath='/data/lisa/data/cifar10/cifar-10-batches-py/'
 #datapath='/eecs/research/asr/chris/DG_project/dataset/cifar-10-batches-py/'
 #datapath='/home/imj/data/cifair10/cifar-10-batches-py/'
-datapath='/home/daniel/Documents/data/cifar10/cifar-10-batches-py/'
+datapath='/DATA1/datasets/cifar-10-batches-py/'
 
 if not os.path.exists(os.path.dirname(os.path.realpath(__file__)) + "/figs/"):
     os.makedirs(os.path.dirname(os.path.realpath(__file__)) + "/figs/")
